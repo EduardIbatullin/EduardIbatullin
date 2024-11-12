@@ -48,4 +48,4 @@ Python-разработчик: веб-приложения на Django/Flask, а
 ---
 
 ## GitHub
-Посмотрите мой портфолио на GitHub: [github.com/EduardIbatullin](https://github.com/EduardIbatullin)
+Посмотрите мой портфолио на GitHub: [github.com/EduardIbatullin](https://github.com/EduardIbatullin/Portfolio/blob/main/portfolio.md)
