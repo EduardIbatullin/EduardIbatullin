@@ -85,5 +85,5 @@ Python-разработчик с опытом веб-разработки (Djang
 ---
 
 ## GitHub
-Посмотрите мой код и проекты на GitHub: [github.com/EduardIbatullin](https://github.com/EduardIbatullin/EduardIbatullin/blob/main/portfolio.md)
+Посмотрите мой код и проекты в портфолио на GitHub: [github.com/EduardIbatullin](https://github.com/EduardIbatullin/EduardIbatullin/blob/main/portfolio.md)
 
